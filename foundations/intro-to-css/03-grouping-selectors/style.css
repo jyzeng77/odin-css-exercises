@@ -1,6 +1,5 @@
 /* Add CSS Styling */
-/* TODO: change button to grouping selector with two classes */
-button {
+.click-me, .click-me2 {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
